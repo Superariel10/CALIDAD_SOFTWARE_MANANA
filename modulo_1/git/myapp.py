@@ -3,3 +3,6 @@ materia = "Calidad de software"
 if (materia):
     print("Estoy practicando git en clases ", materia)
 
+    print("Estoy practicando git en: ", materia)
+else:
+    print("No existe materia")
